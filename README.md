@@ -6,7 +6,7 @@ This is a simple HTML-based e-commerce website dedicated to showcasing and selli
 
 - **Product Catalog:** Browse through a collection of handmade cups, each with detailed descriptions and images. 
 - **Search Functionality:** Easily search for specific cups by keywords or categories.
-- **Shopping Cart: **Add desired cups to the shopping cart for easy checkout.
+- **Shopping Cart:** Add desired cups to the shopping cart for easy checkout.
 - **Secure Checkout:** Securely purchase cups using standard payment methods.
 - **Responsive Design:** The website is designed to be responsive, ensuring optimal viewing and interaction experience across various devices and screen sizes.
 
