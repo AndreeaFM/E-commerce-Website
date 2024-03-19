@@ -12,7 +12,7 @@ This is a simple HTML-based e-commerce website dedicated to showcasing and selli
 
 **Technologies Used**
 
-**HTML5: **For the structure and layout of the website.
+**HTML5:** For the structure and layout of the website.
 **CSS3:** For styling and design enhancements.
 **JavaScript:** For implementing interactive features such as search functionality and shopping cart management.
 
